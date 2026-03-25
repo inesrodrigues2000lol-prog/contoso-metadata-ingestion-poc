@@ -129,6 +129,8 @@ No code changes required.
 - Key Vault integration
 - OLAP cube direct integration
 
+Note: For simplicity, Unity Catalog Volumes are used in this PoC. In a production environment, these paths would typically point to Azure Data Lake Storage (ADLS).
+
 ---
 
 ##  Conclusion
