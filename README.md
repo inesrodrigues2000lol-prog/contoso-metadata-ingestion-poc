@@ -58,7 +58,7 @@ notebooks/
 
 ---
 
-## 🧩 Solution Components
+##  Solution Components
 
 ### 1. Sample Data Sources
 
